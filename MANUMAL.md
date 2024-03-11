@@ -4,7 +4,6 @@
 ## 説明
 本ドキュメントは、BERTopic Webアプリの操作マニュアルを説明しております．  
 BERTopic Webのアクセスリンクは[こちら](https://6d1c-130-158-170-71.ngrok-free.app/)です。  
-Username:"kumagaigumi"、Password:"password"でアクセス可能です。
 BERTopic Webアプリは以下の８つのウィンドウで構成されております。  
 
 #### BERTopic Webアプリのウィンドウ一覧
